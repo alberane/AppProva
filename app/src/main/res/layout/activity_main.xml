@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint=""
-        android:inputType="datetime"
+        android:inputType="date"
         tools:layout_editor_absoluteX="-5dp"
         tools:layout_editor_absoluteY="-10dp" />
 
